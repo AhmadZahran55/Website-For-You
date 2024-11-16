@@ -1,0 +1,15 @@
+*,
+html,
+body
+
+.judul {
+    text-align: center;
+    padding-top: 55px;
+    background-color: #f0e6f6; /* Soft lavender for a romantic, dreamy feel */
+}
+
+.object {
+    text-decoration: none;
+    padding-top: 20px;
+    border: 50px;
+}
